@@ -4,11 +4,6 @@
  
 ---
 
-## Live Preview
-Preview is available at the links below : <br>
-[saavn-web-ui.vercel.app](https://saavn-web-ui.vercel.app/)<br>
-[saavn.codeforkers.tk](https://saavn.codeforkers.tk)
-
 ## Features
 - ⭕ All basic features of a music player
 - :green_apple: Download MP3 Songs with metadata
