@@ -17,9 +17,6 @@ Preview is available at the links below : <br>
 - ♻ No ads, Open-Source, Optimised Code
 - 🎵 Large Library of Songs, Fetched Directly
   
-## Upcoming Features
-- Playlists
-- Song Sharing
-- Lyrics
+
   
 
